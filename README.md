@@ -1,2 +1,2 @@
-# go-service-template
-template for go web service, 🚧 WIP
+# springboot-service-template
+template for springboot web service, 🚧 WIP
